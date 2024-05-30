@@ -1,0 +1,35 @@
+---
+- summary: |
+    ООО
+  requirement: |
+    ООО
+  prerequisites: |
+    ООО
+  test-data: |
+    ООО
+  steps:
+    - ООО
+    - ООО
+    - ООО
+    - ООО
+    - ООО
+    - ООО
+    - ООО
+    - ООО
+  expected-result: |
+    ООО
+
+- summary: |
+    ООО
+  requirement: |
+    ООО
+  prerequisites:
+    ООО
+  test-data: |
+    ООО
+  steps:
+    - ООО
+    - ООО
+    - ООО
+  expected-result: |
+    ООО
