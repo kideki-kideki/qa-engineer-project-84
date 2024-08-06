@@ -3,22 +3,18 @@
 - summary: |
     Поиск товара по ключевому слову
   status: fail
-  status: pass
 
 - summary: |
     Поиск несуществующего товара по ключевому слову
-  status: fail
   status: pass
 
 - summary: |
     Поиск товара по категории
-  status: fail
   status: pass
 
 - summary: |
     Поиск товара по категории и ключевому слову с помощью фильтрации 
   status: fail
-  status: pass
 
 - summary: |
     Фильтрация товара по наличию
