@@ -414,9 +414,10 @@ prerequisites: |
   requirement: |
     Сайт нужно протестировать на совместимость с последними версиями браузеров.
   prerequisites: |
-    Открыта главная страница с каталогом 
+    Открыта главная страница с каталогом.  
   test-data: |
-    Браузеры: Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
+    Проверка через браузеры: Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
+    Либо через утилиту: browserstack.com
   steps:
     - Открыть сайт во всех указанных браузерах
   expected-result: |
@@ -429,7 +430,8 @@ prerequisites: |
   prerequisites: |
     Открыта главная страница с каталогом, в корзину добавлено несколько товаров
   test-data: |
-    Браузеры: Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
+    Проверка через браузеры: Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
+    Либо через утилиту: browserstack.com
   steps:
     - Открыть сайт во всех указанных браузерах
     - Перейти в корзину
