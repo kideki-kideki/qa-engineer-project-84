@@ -1,1 +1,186 @@
+---
+#Поиск товара
+- summary: |
+    Поиск товара по ключевому слову
+  status: fail
+  status: pass
 
+- summary: |
+    Поиск несуществующего товара по ключевому слову
+  status: fail
+  status: pass
+
+- summary: |
+    Поиск товара по категории
+  status: fail
+  status: pass
+
+- summary: |
+    Поиск товара по категории и ключевому слову с помощью фильтрации 
+  status: fail
+  status: pass
+
+- summary: |
+    Фильтрация товара по наличию
+  status: fail
+  status: pass
+
+- summary: |
+    Фильтрация товара по цене с положительными значениями 
+  status: fail
+  status: pass
+
+- summary: |
+    Фильтрация товара по цене с несуществующими значениями
+  status: fail
+  status: pass
+
+- summary: |
+    Сортировка товара по увеличению цены
+  status: fail
+  status: pass
+
+- summary: |
+    Сортировка товара по уменьшению цены
+  status: fail
+  status: pass
+
+- summary: |
+    Сортировка товара по количеству покупок
+  status: fail
+  status: pass
+
+- summary: |
+    Сортировка товара по оценке
+  status: fail
+  status: pass
+
+- summary: |
+    Сброс всех фильтров
+  status: fail
+  status: pass
+
+#Описание
+- summary: |
+    Открытие карточки товара
+  status: fail
+  status: pass
+
+- summary: |
+    Открытие фото в карточке товара
+  status: fail
+  status: pass
+
+#Корзина
+- summary: |
+    Добавление товара в корзину
+  status: fail
+  status: pass
+
+- summary: |
+    Повторное добавление товара в корзину
+  status: fail
+  status: pass
+
+- summary: |
+    Увеличение количества товара в корзине
+  status: fail
+  status: pass
+
+- summary: |
+    Уменьшение количества товара в корзине
+  status: fail
+  status: pass
+
+- summary: |
+    Удаление товара из корзины
+  status: fail
+  status: pass
+
+- summary: |
+    Полная очистка корзины
+  status: fail
+  status: pass
+
+- summary: |
+    Отображение суммы товаров в корзине
+  status: fail
+  status: pass
+
+- summary: |
+    Изменение суммы товаров в корзине при добавлении товара
+  status: fail
+  status: pass
+
+#Оформление заказа
+- summary: |
+    Оформление заказа
+  status: fail
+  status: pass
+
+- summary: |
+    Оформление заказа с пустыми данными
+  status: fail
+  status: pass"
+
+- summary: |
+    Оформление заказа с несуществующими данными
+  status: fail
+  status: pass
+
+#Версии и куки
+- summary: |
+    Ипользование cookie
+  status: fail
+  status: pass
+
+- summary: |
+    Мобильная версия сайта
+  status: fail
+  status: pass
+
+- summary: |
+    Адаптивность мобильных версий
+  status: fail
+  status: pass 
+
+- summary: |
+    Работоспособность сайта на разных браузерах
+  status: fail
+  status: pass
+
+- summary: |
+    Безопасность и защита сайта
+  status: fail
+  status: pass
+
+#Переход
+- summary: |
+    Переход на следующую страницу каталога
+  status: fail
+  status: pass
+
+- summary: |
+    Переход на предыдущую страницу каталога
+  status: fail
+  status: pass
+
+#язык
+- summary: |
+    Русский вариант интерфейса
+  status: fail
+  status: pass
+    
+- summary: |
+    Английский вариант интерфейса
+  status: fail
+  status: pass
+
+---
+- summary: |
+    Краткое описание тест-кейса. Например, проверка входа пользователя с существующими логином и паролем
+  status: fail
+
+- summary: |
+    Краткое описание тест-кейса. Например, проверка входа пользователя с существующими логином и паролем
+  status: pass
