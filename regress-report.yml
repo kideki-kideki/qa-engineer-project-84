@@ -131,7 +131,6 @@
   status: pass
 
 bugreports:
-#старый
 - summary: |
     Отсутствует кнопка сброса всех фильтров
   environment: |
