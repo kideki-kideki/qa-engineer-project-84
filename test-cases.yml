@@ -332,7 +332,7 @@
   prerequisites: |
     Открыта главная страница с каталогом
   test-data: |
-    Модели устройств:  Iphone SE, Iphone 14 Pro Max, Samsung Galaxy S20, iPad mini. iPad Pro
+    Модели устройств -  Iphone SE, Iphone 14 Pro Max, Samsung Galaxy S20, iPad mini. iPad Pro
   steps:
     - Перейти в Инструмент разработчика DevTools
     - В DevTools включить эмуляцию устройств
@@ -347,7 +347,7 @@
   prerequisites: |
     Открыта главная страница с каталогом
   test-data: |
-    Модели устройств:  Iphone SE, Iphone 14 Pro Max, Samsung Galaxy S20, iPad mini. iPad Pro
+    Модели устройств -  Iphone SE, Iphone 14 Pro Max, Samsung Galaxy S20, iPad mini. iPad Pro
   steps:
     - Перейти в Инструмент разработчика DevTools
     - В DevTools включить эмуляцию устройств
@@ -363,7 +363,7 @@
     Открыта главная страница с каталогом.  
   test-data: |
     Проверка через браузеры - Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
-    Либо через утилиту: browserstack.com
+    Либо через утилиту - browserstack.com
   steps:
     - Открыть сайт во всех указанных браузерах
   expected-result: |
@@ -377,7 +377,7 @@
     Открыта главная страница с каталогом, в корзину добавлено несколько товаров
   test-data: |
     Проверка через браузеры - Safari, Mozilla Firefox, Internet Explorer, Google Chrome 
-    Либо через утилиту: browserstack.com
+    Либо через утилиту - browserstack.com
   steps:
     - Открыть сайт во всех указанных браузерах
     - Перейти в корзину
@@ -428,7 +428,7 @@
   steps:
     - Нажать на кнопку "Язык"
     - Выбрать язык интерфейса Russian
-    - Пройти по страницам сайта: главная страница с каталогом, карточка с любым товаром, корзина 
+    - Пройти по страницам сайта - главная страница с каталогом, карточка с любым товаром, корзина 
   expected-result: |
     Все страницы сайта отображаются корректно на русском языке
     
