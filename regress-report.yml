@@ -32,7 +32,7 @@ test-cases:
       Сброс всех фильтров
     status: fail
 
-    - summary: |
+  - summary: |
       Открытие карточки товара
     status: pass
 
