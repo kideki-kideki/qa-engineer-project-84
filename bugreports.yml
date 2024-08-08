@@ -209,9 +209,7 @@
     Windows 11 23H2
   steps-to-reproduce: |
     1. Открыть DevTools
-    2. Проверить сайт на нескольких моделях, Iphone SE, Iphone 14 Pro Max, 
-    Samsung Galaxy S20, iPad mini. iPad Pro
-  steps
+    2. Проверить сайт на нескольких моделях - Iphone SE, Iphone 14 Pro Max, Samsung Galaxy S20, iPad mini, iPad Pro
   expected-result: |
     Вёрстка сайта подогнана под мобильную версию
   actual-result: |
