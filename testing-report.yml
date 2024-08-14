@@ -35,6 +35,10 @@
 - summary: |
     Проверка запроса при оформлении заказа
   status: fail
+  
+- summary: |
+    Наличие файлов cookie
+  status: fail
 
 #Поиск товара
 - summary: |
