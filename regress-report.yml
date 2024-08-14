@@ -14,6 +14,18 @@ test-cases:
   status: pass 
 
 - summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Добавление одинакового товара в корзину
+  status: pass
+
+- summary: |
+    Добавление разного товара в корзину 
+  status: pass  
+
+- summary: |
     Страница оплаты
   status: fail
 
