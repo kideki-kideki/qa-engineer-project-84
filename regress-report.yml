@@ -64,7 +64,7 @@ test-cases:
 
 - summary: |
     Фильтрация товара по наличию
-  status: pass
+  status: fail
 
 - summary: |
     Фильтрация товара по цене с несуществующими значениями
