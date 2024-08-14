@@ -36,7 +36,11 @@ test-cases:
 - summary: |
     Проверка запроса при оформлении заказа
   status: fail
-  
+
+- summary: |
+    Наличие файлов cookie
+  status: fail
+
 #
 - summary: |
     Поиск товара по ключевому слову
