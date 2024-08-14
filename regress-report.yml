@@ -46,10 +46,6 @@ test-cases:
   status: fail
 
 - summary: |
-    Сброс всех фильтров
-  status: fail
-
-- summary: |
     Открытие карточки товара
   status: pass
 
