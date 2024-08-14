@@ -10,14 +10,10 @@
 
 - summary: |
     Добавление товара в корзину на странице товара
-  status: pass 
+  status: pass
 
 - summary: |
-    Страница оплаты
-  status: fail
-
-- summary: |
-    Добавление товара в корзину
+    Добавление товара в корзину на странице каталога
   status: pass
 
 - summary: |
@@ -29,6 +25,11 @@
   status: pass
 
 - summary: |
+    Страница оплаты
+  status: fail
+
+- summary: |
+    Работоспособность хэштега на странице товара
   status: fail
 
 #Поиск товара
